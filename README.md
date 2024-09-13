@@ -60,8 +60,8 @@ Key functionalities include unlimited funnel hosting, media storage, real-time c
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/saas-website-builder.git
-   cd saas-website-builder
+   git clone https://github.com/themihirmathur/WordDePress.git
+   cd WordDePress
    ```
 
 2. **Install Dependencies**:
