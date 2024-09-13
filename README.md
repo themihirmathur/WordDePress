@@ -1,10 +1,10 @@
-# SaaS Website Builder, Project Management, and Dashboard with Stripe
+# WordDePress - SaaS Website Builder, Project Management, and Dashboard with Stripe
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
 
-This project is a comprehensive SaaS platform built using the latest technologies such as Next.js 14, Bun, Stripe Connect, Prisma, MySQL, and Tailwind. It is designed to provide businesses and agencies with a powerful, all-in-one solution for website building, project management, and real-time analytics. The application integrates advanced features like multi-vendor support, role-based access, and seamless Stripe integration for managing subscriptions, payments, and custom checkouts.
+This project, `WordDePress`, is a comprehensive SaaS platform built using the latest technologies such as Next.js 14, Bun, Stripe Connect, Prisma, MySQL, and Tailwind. It is designed to provide businesses and agencies with a powerful, all-in-one solution for website building, project management, and real-time analytics. The application integrates advanced features like multi-vendor support, role-based access, and seamless Stripe integration for managing subscriptions, payments, and custom checkouts.
 
 ![Screenshot 2024-09-13 at 5 22 57 PM](https://github.com/user-attachments/assets/a19b0865-864e-453f-b12a-4be88fd70a7c)
 
