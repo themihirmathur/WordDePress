@@ -28,7 +28,7 @@ Key functionalities include unlimited funnel hosting, media storage, real-time c
 
 ## Features
 
-- **Multivendor B2B2B SaaS**: Supports multiple vendors and businesses, providing a scalable solution for various client needs.
+- **Multivendor B2B SaaS**: Supports multiple vendors and businesses, providing a scalable solution for various client needs.
 - **Agency and Sub-Accounts**: Facilitates management of multiple accounts under a single agency, including sub-account functionalities.
 - **Unlimited Funnel Hosting**: Host an unlimited number of funnels with optimized performance and security.
 - **Full Website & Funnel Builder**: Drag-and-drop builder to create websites and funnels, equipped with customizable templates and elements.
